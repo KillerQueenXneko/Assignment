@@ -30,7 +30,7 @@ void Q1()
 	B = 90 - A;		// Calculate the rest values
 	c = b / cos(A * PI / 180);
 	a = tan(A * PI / 180) * b;
-	cout << fixed << setprecision(3) << "a = " << a << ", b = " << b << ", c = " << c << ", A = " << A << "¡ã" << ", B = " << B << "¡ã";
+	cout << fixed << setprecision(3) << "a = " << a << ", b = " << b << ", c = " << c << ", A = " << A << "Â¡Ã£" << ", B = " << B << "Â¡Ã£";
 	return;
 }
 
